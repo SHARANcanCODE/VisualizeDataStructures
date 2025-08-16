@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <array.h>
-#include <string.h>
 #include "utils.h"
 
 static int arr[MAX_SIZE];  
