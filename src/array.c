@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <array.h>
+#include <string.h>
 #include "utils.h"
 
-static int arr[MAX_SIZE];
+static int arr[MAX_SIZE];  
 static int size = 0;
 
 static void display_array(void) {
